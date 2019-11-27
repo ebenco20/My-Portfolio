@@ -1,0 +1,136 @@
+ 
+ .header-color {
+  background: #AA076B;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #61045F, #AA076B);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #61045F, #AA076B); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+} 
+
+.Landing-grid {
+  background: #AA076B;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #61045F, #AA076B);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #61045F, #AA076B); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  text-align: center;
+  top: 0;
+  left: 0;
+  width: 150%;
+  height: 150%;
+}
+.project-ht {
+  display: flex;
+}
+
+.contact-body {
+  margin: auto;
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  justify-content: center;
+  color: white;
+  padding: 4em;
+}
+
+.contact-grid {
+  text-align: center;
+  justify-content: center;
+  width: 80%;
+  height: 85%;
+  background: white;
+  color: black;
+  margin-bottom: 20px;
+}
+
+.contact-list i {
+  font-size: 66px;
+  padding-right: 5rem;
+}
+
+.contact-grid h2 {
+   font-family: 'Anton',sans-serif;
+}
+
+.contact-grid hr {
+  border-top: 5px solid black;
+  width: 170px;
+  margin: auto;
+}
+
+/* contact page css */
+
+.avatar-img {
+  height: 35vh;
+width: 50%;
+margin: 20px;
+border-radius: 50%;
+margin-top: 10%;
+margin-left: 65%;
+}
+
+.category-tabs {
+  padding: 4em;
+  font-family: 'Anton',sans-serif;
+}
+
+/* Resume page css */
+  .resume-right-col {
+    background: #27221f;
+    color: white;
+    padding: 4em;
+
+  }
+/* Resume page css */
+
+/* About me page css*/
+.about {
+  text-align: center;
+  background-color: black;
+  color: white;
+  padding: 4em;
+}
+
+.about p {
+  font-family: 'Anton',sans-serif;
+}
+
+/* About me page css*/
+
+.font {
+  opacity: 8;
+  width: 150%;
+  margin:20px;
+  margin-left: 25%;
+  border-radius: 10px;
+  padding: 0px 0px 0px 8px;
+}
+
+.font h1 {
+  font-size: 65px;
+  font-weight: bold;
+  color: rgb(252, 235, 237);
+}
+
+.font hr {
+  border-top: 5px  solid white;
+  width: 350px;
+  margin: auto;
+}
+
+.font p {
+  color: white;
+  font-size: 25px;
+  padding: 1em;
+}
+
+.social-medias {
+ display: flex;
+ justify-content: space-between;
+ width: 45%;
+ margin: auto;
+}
+
+.social-medias i {
+ color: white;
+ font-size: 4em;
+ padding: 8px; 
+}
+ 
